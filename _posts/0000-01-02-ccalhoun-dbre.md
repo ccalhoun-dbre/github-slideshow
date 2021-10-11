@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Stay positive. Work hard. Make it happen."
 Use the left arrow to go back!
